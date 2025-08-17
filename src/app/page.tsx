@@ -21,7 +21,7 @@ export default function Home() {
       <div className="container mx-auto px-4 py-8 max-w-4xl relative z-10">
         <header className="text-center mb-12 animate-fade-in-down">
           <h1 className="text-5xl md:text-7xl font-black bg-gradient-to-r from-purple-600 via-pink-600 to-blue-600 bg-clip-text text-transparent mb-6 tracking-tight">
-            My Tasks
+            Tasker
           </h1>
           <p className="text-gray-600 text-lg mb-8 animate-fade-in animation-delay-200">
             오늘도 멋진 하루를 만들어보세요
